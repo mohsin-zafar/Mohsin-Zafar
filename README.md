@@ -33,30 +33,47 @@ Statistics: Statistical Analysis
 
 Yes — interested in collaborating on data analysis projects
 
-📬 Contact Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/mohsin-zafar-7601b8380
-📧 Email: [mohsinzafar6398@gmail.com](mail to:mohsinzafar6398@gmail.com)
-
-Fun Fact
+💡Fun Fact
 
 I enjoy exploring datasets and finding hidden patterns in data
 
- 🎯 Goal
+🎯 Goal
 
 To become a skilled Data Analyst and work on impactful, data-driven projects 🚀
 
+<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #00c3ff, transparent);" />
+
 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsin-zafar-7601b8380)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mohsinzafar6398@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohsin-zafar)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohsin-zafar-7601b8380">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mohsinzafar6398@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/mohsin-zafar">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
+<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #00c3ff, transparent);" />
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsin-zafar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsin-zafar&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohsin-zafar&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohsin-zafar&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-zafar&layout=compact&theme=tokyonight)
+<hr style="height:2px;border:none;background:linear-gradient(to right, transparent, #00c3ff, transparent);" />
+
+👀 Visitor Count 👇
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohsin-zafar&label=Visitors&color=00c3ff&style=flat" />
+</p>
+
